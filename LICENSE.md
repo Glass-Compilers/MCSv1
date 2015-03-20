@@ -101,7 +101,7 @@ An Addon may include the Mod API without being considered a Derivative.
 The Addon may be distributed under a different license.  
 
 
-11. Author rights
+9. Author rights
 --------
 
 The Author or Company or the ownership of the Mod has total control over the
